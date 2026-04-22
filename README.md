@@ -1,45 +1,45 @@
 ```ansi
-[1;32m██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗[0m
-[1;32m██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝[0m
-[1;32m██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗  [0m
-[1;32m██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝  [0m
-[1;32m╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗[0m
-[1;32m ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝[0m
+[1;32m██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗[0m
+[1;32m██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝[0m
+[1;32m██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗  [0m
+[1;32m██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝  [0m
+[1;32m╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗[0m
+[1;32m ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝[0m
 ```
 
 ```ansi
-[1;32mmike@dev[0m:[1;34m~[0m$ whoami
-[1;32m> Mike-04[0m
+[1;32mmike@dev[0m:[1;34m~[0m$ whoami
+[1;32m> Mike-04[0m
 
-[1;32mmike@dev[0m:[1;34m~[0m$ cat /etc/profile.d/about.sh
-[32m  ┌──────────────────────────────────────────────────────────────┐[0m
-[32m  │[0m  role       :  [1;37mFull-Stack Dev, Making the world better[0m       [32m│[0m
-[32m  │[0m  location   :  [1;37mCluj, Romania[0m                                 [32m│[0m
-[32m  │[0m  interests  :  [1;37mAI · Smart Robots · Building things[0m           [32m│[0m
-[32m  │[0m  stack      :  [1;37mfull — from embedded C to React[0m               [32m│[0m
-[32m  │[0m  status     :  [1;32m[ ONLINE ][0m — always building                  [32m│[0m
-[32m  └──────────────────────────────────────────────────────────────┘[0m
+[1;32mmike@dev[0m:[1;34m~[0m$ cat /etc/profile.d/about.sh
+[32m  ┌──────────────────────────────────────────────────────────────┐[0m
+[32m  │[0m  role       :  [1;37mFull-Stack Dev, Making the world better[0m       [32m│[0m
+[32m  │[0m  location   :  [1;37mCluj, Romania[0m                                 [32m│[0m
+[32m  │[0m  interests  :  [1;37mAI · Smart Robots · Building things[0m           [32m│[0m
+[32m  │[0m  stack      :  [1;37mfull — from embedded C to React[0m               [32m│[0m
+[32m  │[0m  status     :  [1;32m[ ONLINE ][0m — always building                  [32m│[0m
+[32m  └──────────────────────────────────────────────────────────────┘[0m
 
-[1;32mmike@dev[0m:[1;34m~[0m$ cat /var/log/thoughts.log
-  [1;33m[WARN][0m  Building robots, and they are kinda smart for comfort.
-  [1;31m[ERROR][0m sleep() — function not found
-  [36m[DEBUG][0m // TODO: sleep  (open since 2023, low priority)
+[1;32mmike@dev[0m:[1;34m~[0m$ cat /var/log/thoughts.log
+  [1;33m[WARN][0m  Building robots, and they are kinda smart for comfort.
+  [1;31m[ERROR][0m sleep() — function not found
+  [36m[DEBUG][0m // TODO: sleep  (open since 2023, low priority)
 
-[1;32mmike@dev[0m:[1;34m~[0m$ [1;32m█[0m
+[1;32mmike@dev[0m:[1;34m~[0m$ [1;32m█[0m
 ```
 
 ---
 
 ```ansi
-[1;32mmike@dev[0m:[1;34m~[0m$ ls -la skills/
+[1;32mmike@dev[0m:[1;34m~[0m$ ls -la skills/
 ```
 
 ```ansi
-[34mdrwxr-xr-x[0m  [1;34mlanguages/[0m
-[34mdrwxr-xr-x[0m  [1;34mframeworks/[0m
-[34mdrwxr-xr-x[0m  [1;34mdata/[0m
-[34mdrwxr-xr-x[0m  [1;34mdevops/[0m
-[34mdrwxr-xr-x[0m  [1;34mother/[0m
+[34mdrwxr-xr-x[0m  [1;34mlanguages/[0m
+[34mdrwxr-xr-x[0m  [1;34mframeworks/[0m
+[34mdrwxr-xr-x[0m  [1;34mdata/[0m
+[34mdrwxr-xr-x[0m  [1;34mdevops/[0m
+[34mdrwxr-xr-x[0m  [1;34mother/[0m
 ```
 
 | Module | Stack |
@@ -53,7 +53,7 @@
 ---
 
 ```ansi
-[1;32mmike@dev[0m:[1;34m~[0m$ cat stack_summary.json
+[1;32mmike@dev[0m:[1;34m~[0m$ cat stack_summary.json
 ```
 
 ```json
@@ -72,7 +72,7 @@
 ---
 
 ```ansi
-[1;32mmike@dev[0m:[1;34m~[0m$ curl streak.sh
+[1;32mmike@dev[0m:[1;34m~[0m$ curl streak.sh
 ```
 
 <div align="center">
@@ -84,7 +84,7 @@
 ---
 
 ```ansi
-[1;32mmike@dev[0m:[1;34m~[0m$ cat /proc/snake
+[1;32mmike@dev[0m:[1;34m~[0m$ cat /proc/snake
 ```
 
 <div align="center">
@@ -96,7 +96,7 @@
 ---
 
 ```ansi
-[1;32mmike@dev[0m:[1;34m~[0m$ ping me
+[1;32mmike@dev[0m:[1;34m~[0m$ ping me
 ```
 
 
@@ -105,7 +105,7 @@
 
 ---
 ```ansi
-[1;32m[connection established][0m — feel free to reach out
+[1;32m[connection established][0m — feel free to reach out
 ```
 <div align="center">
 <sub><code>exit 0  // made with ☕, too many open tabs, and some vibe code</code></sub>
