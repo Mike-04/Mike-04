@@ -1,45 +1,45 @@
-```ansi
-[1;32m██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗[0m
-[1;32m██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝[0m
-[1;32m██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗  [0m
-[1;32m██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝  [0m
-[1;32m╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗[0m
-[1;32m ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝[0m
+```
+██╗    ██╗███████╗██╗      ██████╗ ██████╗ ███╗   ███╗███████╗
+██║    ██║██╔════╝██║     ██╔════╝██╔═══██╗████╗ ████║██╔════╝
+██║ █╗ ██║█████╗  ██║     ██║     ██║   ██║██╔████╔██║█████╗  
+██║███╗██║██╔══╝  ██║     ██║     ██║   ██║██║╚██╔╝██║██╔══╝  
+╚███╔███╔╝███████╗███████╗╚██████╗╚██████╔╝██║ ╚═╝ ██║███████╗
+ ╚══╝╚══╝ ╚══════╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝
 ```
 
-```ansi
-[1;32mmike@dev[0m:[1;34m~[0m$ whoami
-[1;32m> Mike-04[0m
+```
+mike@dev:~$ whoami
+> Mike-04
 
-[1;32mmike@dev[0m:[1;34m~[0m$ cat /etc/profile.d/about.sh
-[32m  ┌──────────────────────────────────────────────────────────────┐[0m
-[32m  │[0m  role       :  [1;37mFull-Stack Dev, Making the world better[0m       [32m│[0m
-[32m  │[0m  location   :  [1;37mCluj, Romania[0m                                 [32m│[0m
-[32m  │[0m  interests  :  [1;37mAI · Smart Robots · Building things[0m           [32m│[0m
-[32m  │[0m  stack      :  [1;37mfull — from embedded C to React[0m               [32m│[0m
-[32m  │[0m  status     :  [1;32m[ ONLINE ][0m — always building                  [32m│[0m
-[32m  └──────────────────────────────────────────────────────────────┘[0m
+mike@dev:~$ cat /etc/profile.d/about.sh
+  ┌──────────────────────────────────────────────────────────────┐
+  │  role       :  Full-Stack Dev, Making the world better       │
+  │  location   :  Cluj, Romania                                 │
+  │  interests  :  AI · Smart Robots · Building things           │
+  │  stack      :  full — from embedded C to React               │
+  │  status     :  [ ONLINE ] — always building                  │
+  └──────────────────────────────────────────────────────────────┘
 
-[1;32mmike@dev[0m:[1;34m~[0m$ cat /var/log/thoughts.log
-  [1;33m[WARN][0m  Building robots, and they are kinda smart for comfort.
-  [1;31m[ERROR][0m sleep() — function not found
-  [36m[DEBUG][0m // TODO: sleep  (open since 2023, low priority)
+mike@dev:~$ cat /var/log/thoughts.log
+  [WARN]  Building robots, and they are kinda smart for comfort.
+  [ERROR] sleep() — function not found
+  [DEBUG] // TODO: sleep  (open since 2023, low priority)
 
-[1;32mmike@dev[0m:[1;34m~[0m$ [1;32m█[0m
+mike@dev:~$ █
 ```
 
 ---
 
-```ansi
-[1;32mmike@dev[0m:[1;34m~[0m$ ls -la skills/
+```
+mike@dev:~$ ls -la skills/
 ```
 
-```ansi
-[34mdrwxr-xr-x[0m  [1;34mlanguages/[0m
-[34mdrwxr-xr-x[0m  [1;34mframeworks/[0m
-[34mdrwxr-xr-x[0m  [1;34mdata/[0m
-[34mdrwxr-xr-x[0m  [1;34mdevops/[0m
-[34mdrwxr-xr-x[0m  [1;34mother/[0m
+```
+drwxr-xr-x  languages/
+drwxr-xr-x  frameworks/
+drwxr-xr-x  data/
+drwxr-xr-x  devops/
+drwxr-xr-x  other/
 ```
 
 | Module | Stack |
@@ -52,8 +52,8 @@
 
 ---
 
-```ansi
-[1;32mmike@dev[0m:[1;34m~[0m$ cat stack_summary.json
+```
+mike@dev:~$ cat stack_summary.json
 ```
 
 ```json
@@ -71,8 +71,8 @@
 
 ---
 
-```ansi
-[1;32mmike@dev[0m:[1;34m~[0m$ curl streak.sh
+```
+mike@dev:~$ curl streak.sh
 ```
 
 <div align="center">
@@ -83,8 +83,8 @@
 
 ---
 
-```ansi
-[1;32mmike@dev[0m:[1;34m~[0m$ cat /proc/snake
+```
+mike@dev:~$ cat /proc/snake
 ```
 
 <div align="center">
@@ -95,8 +95,8 @@
 
 ---
 
-```ansi
-[1;32mmike@dev[0m:[1;34m~[0m$ ping me
+```
+mike@dev:~$ ping me
 ```
 
 
@@ -104,8 +104,8 @@
 > [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mike-04)
 
 ---
-```ansi
-[1;32m[connection established][0m — feel free to reach out
+```
+[connection established] — feel free to reach out
 ```
 <div align="center">
 <sub><code>exit 0  // made with ☕, too many open tabs, and some vibe code</code></sub>
